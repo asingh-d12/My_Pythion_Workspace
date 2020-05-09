@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "Python_Course_PD_Z2M"
+		},
+		{
+			"path": "My_Python_Projects"
+		},
+		{
+			"path": "venv"
+		}
+	],
+	"settings": {
+			"python.pythonPath": "../venv/venv/bin/python3"
+	}
+}
