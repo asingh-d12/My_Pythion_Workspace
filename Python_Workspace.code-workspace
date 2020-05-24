@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "venv"
+		},
+		{
+			"path": "ScratchPad"
 		}
 	],
 	"settings": {
