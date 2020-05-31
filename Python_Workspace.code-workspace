@@ -14,6 +14,6 @@
 		}
 	],
 	"settings": {
-			"python.pythonPath": "../venv/venv/bin/python3"
+			"python.pythonPath": "/home/amrit/Desktop/All_Python/venv/venv/bin/python"
 	}
 }
