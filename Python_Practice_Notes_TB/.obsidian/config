@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/Python is Dynamically and Strongly Typed Language.md",
+            "file": "DataTypes/String/4. Introduction.md",
             "mode": "source"
           }
         },
@@ -34,7 +34,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/Python is Dynamically and Strongly Typed Language.md",
+            "file": "DataTypes/String/4. Introduction.md",
             "mode": "preview"
           }
         },
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 228
   },
   "rightSidedock": {
     "id": "1f7af0e3e25ca4e3",
@@ -97,12 +97,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Introduction/Python is Dynamically and Strongly Typed Language.md",
-    "Introduction/Variables.md",
-    "Introduction/Escape Characters.md",
-    "DataTypes/Untitled.md",
-    "Introduction/Untitled.md"
+    "DataTypes/String/Untitled.md",
+    "DataTypes/1. Numeric Data Types.md",
+    "DataTypes/3. Operator Precedence.md",
+    "DataTypes/2. What are Expressions.md",
+    "DataTypes/Operator Precedence.md"
   ],
   "readableLineLength": false,
-  "fileSortOrder": "byModifiedTimeReverse"
+  "fileSortOrder": "alphabetical"
 }
