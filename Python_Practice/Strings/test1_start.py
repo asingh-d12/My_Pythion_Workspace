@@ -1,20 +1,3 @@
-## What are Strings??
->A sequence datatype
-
-> A Sequence of characters
-
-> Iterable
-
-> Immutable - will learn about this one later
-
-> subscriptible
-	we can access any character at index in a string
-		>There are 2 ways
-			>1. +ve i.e. from left to right
-			>2. -ve i.e. from right to left
-
-Let's check this code out:
-```
 # Position goes something like this
 # 				   1
 # 		 01234567890123456
@@ -39,6 +22,3 @@ print()
 print("or in -ve way from right to left")
 print(a_str[-10])  # should print i
 print(a_str[-6])   # should print w
-```
-
-![[Pasted image 11.png]]
