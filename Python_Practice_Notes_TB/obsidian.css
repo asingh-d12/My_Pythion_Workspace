@@ -1,0 +1,89 @@
+/* Collapsing sidedocks */
+.app-container.is-left-sidedock-collapsed .side-dock.mod-left:not(:hover), .app-container.is-right-sidedock-collapsed .side-dock.mod-right:not(:hover) {
+  width: 0px !important;
+}
+
+/* Clean header */
+.workspace-leaf-header, .view-header {
+  background-color: var(--background-primary) !important;
+  border-bottom: 0px !important;
+}
+
+/* Cleaner status bar */
+.status-bar {
+  background-color: var(--background-primary);
+  color: var(--text-faint);
+}
+
+/* Sidedocks icons */
+.side-dock-ribbon-tab, .side-dock-ribbon-action {
+  color: var(--text-muted);
+}
+.side-dock-ribbon-tab:hover, .side-dock-ribbon-action:hover {
+  color: var(--text-normal);
+}
+
+/* Bigger margins when single pane */
+.mod-single-child .CodeMirror-sizer {
+  margin: 0px 10% !important;
+}
+.mod-single-child .markdown-preview-section {
+  margin: 0px 10% !important;
+}
+
+
+/* Markdown syntax highlighting */
+/* Headers */
+.cm-formatting-header {
+  color: var(--text-faint) !important;
+  font-weight: 400 !important;
+}
+.HyperMD-header-1 {
+  font-size: 18pt !important;
+}
+.HyperMD-header-2 {
+  font-size: 16pt !important;
+}
+.HyperMD-header-3 {
+  font-size: 14pt !important;
+}
+/* Lists */
+.cm-formatting-list {
+  color: var(--text-faint) !important;
+}
+/* Quote */
+.cm-formatting-quote {
+  color: var(--text-faint) !important;
+}
+
+
+/* Markdown preview styling */
+/* Blockquotes */
+.markdown-preview-view blockquote {
+  border-radius: 4px;
+  border: solid var(--quote-opening-modifier);
+  border-width: 0px 0px 0px 7px;
+  background-color: var(--background-modifier-accent);
+}
+
+
+/* --------------- */
+/* Custom colors */
+.theme-dark {
+  --background-primary: #000;
+  --background-secondary: #000;
+  --background-modifier-accent: #94a8b328;
+  --quote-opening-modifier: rgb(255, 255, 255, 0.1);
+
+  --text-normal: #dedcde;
+  --text-accent:  #94a8b3;
+  --text-accent-hover: #83959e;
+}
+
+.theme-light {
+  --background-modifier-accent: #6b8c9c1e;
+  --quote-opening-modifier: rgb(0, 0, 0, 0.1);
+
+  --text-accent:  #6b8c9c;
+  --text-accent-hover: #81a7b9;
+}
