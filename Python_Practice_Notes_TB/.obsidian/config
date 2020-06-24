@@ -22,23 +22,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataTypes/String/5. Slicing.md",
+            "file": "DataTypes/String/7. Check SubString in a String.md",
             "mode": "source"
           }
-        },
-        "group": "878cd40e035fa483"
-      },
-      {
-        "id": "b70605a6bd8e9f28",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DataTypes/String/5. Slicing.md",
-            "mode": "preview"
-          }
-        },
-        "group": "878cd40e035fa483"
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228
+    "width": 243
   },
   "rightSidedock": {
     "id": "1f7af0e3e25ca4e3",
@@ -97,11 +84,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "DataTypes/String/7. Check SubString in a String.md",
     "DataTypes/String/Untitled.md",
-    "DataTypes/1. Numeric Data Types.md",
-    "DataTypes/3. Operator Precedence.md",
-    "DataTypes/2. What are Expressions.md",
-    "DataTypes/Operator Precedence.md"
+    "DataTypes/Untitled.md",
+    "DataTypes/String/5. Slicing.md",
+    "DataTypes/String/4. Introduction.md"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical"
