@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataTypes/String/7. Check SubString in a String.md",
+            "file": "DataTypes/String/8. String Formatting.md",
             "mode": "source"
           }
         }
@@ -84,11 +84,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "DataTypes/String/8. String Formatting.md",
     "DataTypes/String/7. Check SubString in a String.md",
-    "DataTypes/String/Untitled.md",
-    "DataTypes/Untitled.md",
     "DataTypes/String/5. Slicing.md",
-    "DataTypes/String/4. Introduction.md"
+    "DataTypes/String/4. Introduction.md",
+    "DataTypes/String/Untitled.md"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical"
