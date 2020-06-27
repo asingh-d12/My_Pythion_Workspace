@@ -18,14 +18,27 @@
       {
         "id": "91aa93defb153f58",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ProgramFlow/1. What is Program Flow.md",
+            "mode": "source"
+          }
+        },
+        "group": "d43407d1b8c5660a"
+      },
+      {
+        "id": "175dba952fdcd193",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataTypes/String/8. String Formatting.md",
-            "mode": "source"
+            "file": "ProgramFlow/1. What is Program Flow.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "d43407d1b8c5660a"
       }
     ],
     "direction": "vertical"
@@ -84,11 +97,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "ProgramFlow/1. What is Program Flow.md",
+    "ProgramFlow/2. if Statements.md",
+    "ProgramFlow/Untitled.md",
     "DataTypes/String/8. String Formatting.md",
-    "DataTypes/6. Sequence Types in Python.md",
-    "DataTypes/String/7. Check SubString in a String.md",
-    "DataTypes/String/5. Slicing.md",
-    "DataTypes/String/4. Introduction.md"
+    "DataTypes/6. Sequence Types in Python.md"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical"
