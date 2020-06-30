@@ -18,10 +18,12 @@
       {
         "id": "91aa93defb153f58",
         "type": "leaf",
+        "dimension": 49.28880643166357,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ProgramFlow/1. What is Program Flow.md",
+            "file": "ProgramFlow/5. 'in' and 'not in'.md",
             "mode": "source"
           }
         },
@@ -30,11 +32,11 @@
       {
         "id": "175dba952fdcd193",
         "type": "leaf",
-        "active": true,
+        "dimension": 50.71119356833642,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ProgramFlow/1. What is Program Flow.md",
+            "file": "ProgramFlow/5. 'in' and 'not in'.md",
             "mode": "preview"
           }
         },
@@ -97,11 +99,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "ProgramFlow/1. What is Program Flow.md",
-    "ProgramFlow/2. if Statements.md",
     "ProgramFlow/Untitled.md",
-    "DataTypes/String/8. String Formatting.md",
-    "DataTypes/6. Sequence Types in Python.md"
+    "ProgramFlow/4. Using in, or and and.md",
+    "Introduction/5. Truthy Values.md",
+    "Introduction/4. Operator Precedence.md",
+    "Introduction/Escape Characters.md"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical"
