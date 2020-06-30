@@ -18,29 +18,14 @@
       {
         "id": "91aa93defb153f58",
         "type": "leaf",
-        "dimension": 49.28880643166357,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ProgramFlow/5. 'in' and 'not in'.md",
+            "file": "ProgramFlow/6. For Loop.md",
             "mode": "source"
           }
-        },
-        "group": "d43407d1b8c5660a"
-      },
-      {
-        "id": "175dba952fdcd193",
-        "type": "leaf",
-        "dimension": 50.71119356833642,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ProgramFlow/5. 'in' and 'not in'.md",
-            "mode": "preview"
-          }
-        },
-        "group": "d43407d1b8c5660a"
+        }
       }
     ],
     "direction": "vertical"
@@ -99,11 +84,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "ProgramFlow/6. For Loop.md",
     "ProgramFlow/Untitled.md",
+    "ProgramFlow/5. 'in' and 'not in'.md",
     "ProgramFlow/4. Using in, or and and.md",
-    "Introduction/5. Truthy Values.md",
-    "Introduction/4. Operator Precedence.md",
-    "Introduction/Escape Characters.md"
+    "Introduction/5. Truthy Values.md"
   ],
   "readableLineLength": false,
   "fileSortOrder": "alphabetical"
