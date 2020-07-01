@@ -22,3 +22,19 @@ print(id(x))
 print(id(i))
 
 print(id(x) == id(i))
+
+# Checking how simple split works
+a_str = "a b c d"
+print(a_str.split())
+
+a_str = "a    \nb  c  d"
+print(a_str.split())
+
+a_str = "a b c \n\t   d"
+print(a_str.split())
+
+a_str = "a b   \t\nc d"
+print(a_str.split())
+
+a_str = "a    b c   d"
+print(a_str.split())

@@ -1,7 +1,8 @@
-number = "9,223;372:036 854,775;807"
+# The main difference between this program and for_loop_2.py is that here we are going to as user to input number
+
+number = input("Please enter a series of numbers with any separator you like : ")
 separators = ""
 
-# Using For Loop to filter out and save the not numeric values
 for a_char in number:
     # We can do something like this as well.
     # if not a_char.isnumeric():
