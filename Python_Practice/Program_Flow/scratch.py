@@ -38,3 +38,10 @@ print(a_str.split())
 
 a_str = "a    b c   d"
 print(a_str.split())
+
+print('*' * 100)
+
+for i in range(20):
+    if i % 3 == 0 or i % 5 == 0:
+        continue
+    print(i)
