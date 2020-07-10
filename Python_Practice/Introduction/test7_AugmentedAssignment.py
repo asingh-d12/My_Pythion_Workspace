@@ -1,0 +1,46 @@
+# So whatis Augmented Assignment
+# So i have this
+
+x = 20
+x = x + 1
+# This can be done in a better way... how?
+# Augmented assignment
+x += 1
+
+# What's the difference
+# There are few extra step in x = x + 1
+# 1. look up guess
+# 2. Add 1 to guesses
+# 3. Put it in a memory location
+# 4. bind it to variable x
+
+# With Augmented Assignment
+# 1. Simply add 1 to x
+
+# We can also do this
+x = 20
+print(x)
+x -= 4
+print(x)
+x /= 12
+print(x)
+x //= 2
+print(x)
+x %= 12
+print(x)
+x *= 56
+print(x)
+x **= 2
+print(x)
+
+# They can be performed on String as well
+x_string = "My name is"
+print(x_string)
+x_string += " Amrit"
+print(x_string)
+
+# or we can do this as well
+x_string *= 5
+print(x_string)
+
+

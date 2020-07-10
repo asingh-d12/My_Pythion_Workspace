@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modules/1. Random.md",
+            "file": "ProgramFlow/12. Conditional Debugging.md",
             "mode": "source"
           }
         }
@@ -84,11 +84,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Modules/Untitled.md",
-    "ProgramFlow/9. Continue and Break.md",
+    "ProgramFlow/12. Conditional Debugging.md",
     "ProgramFlow/Untitled.md",
     "Introduction/Untitled.md",
-    "ProgramFlow/7. Ranges.md"
+    "Introduction/8. What is PEP-8.md",
+    "Introduction/6. What is None.md"
   ],
   "readableLineLength": false,
   "fileSortOrder": "byModifiedTimeReverse"

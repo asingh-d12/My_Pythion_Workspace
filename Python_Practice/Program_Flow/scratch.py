@@ -45,3 +45,14 @@ for i in range(20):
     if i % 3 == 0 or i % 5 == 0:
         continue
     print(i)
+
+print("*" * 50)
+number = 5
+multiplier = 8
+answer = 0
+
+# add your loop after this comment
+for _ in range(multiplier):
+    answer += number
+
+print(answer)
