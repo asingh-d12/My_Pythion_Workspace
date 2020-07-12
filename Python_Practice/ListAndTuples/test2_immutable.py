@@ -1,0 +1,49 @@
+# So here we are going to use a new function
+# id()
+# returns the identification or in terms of computer the address of an object
+# CPython compiler returns address of the object, but not all compilers may be the same
+# So, if you start with 1 object, it will remain same until the object is destroyed
+# String
+a_str = "Hello Amrit"
+a_str_2 = "Hello Amrit"
+a_str_3 = a_str
+print(id(a_str) == id(a_str_2))
+
+print(id(a_str))
+print(id(a_str_3))
+
+# Let's bind a_str to different value
+a_str += "Sing with me"
+print(id(a_str))
+print(id(a_str_3))
+
+# CONCLUSION : STRING VALUE BINDS TO A VALUE, and THAT VALUE CAN"T BE CHANGED
+# WHEN TRYING TO ASSIGN A DIFFERENT VALUE, IT SIMPLY BINDS TO DIFFERENT VALUE
+
+print("*" * 100)
+
+# Boolean
+a_result = True
+second_result = True
+third_result = a_result
+
+print(id(a_result))
+print(id(second_result))
+print(id(third_result))
+
+# Changing 1 variable to false
+a_result = not a_result
+print(a_result)
+print(id(a_result))
+
+# Changing it back to True
+a_result = not a_result
+print(id(a_result))
+
+# So, no matter how many time a boolean variable changes from true to false or
+# Vice Versa... the address of True and False remains the same.
+
+# CONCLUSION: SO, WHAT WE CAN SAY IS FOR BOOLEAN... WE DON'T REALLY ASSIGN VALUES TO BOOLEAN VARIABLE
+# WE BIND BOOLEAN VARIABLES TO JUST 2 MEMORY LOCATIONS THAT CONTAIN TRUE AND FALSE
+
+print("*" * 100)

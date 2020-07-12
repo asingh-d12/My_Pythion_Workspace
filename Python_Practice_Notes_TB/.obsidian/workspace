@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "bb36e2c2218197e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "673d5770b5ddbe06",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sequence Types/4. List Methods.md",
+            "mode": "source"
+          }
+        },
+        "group": "3ed706652de117be"
+      },
+      {
+        "id": "5a44f5981821c073",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sequence Types/4. List Methods.md",
+            "mode": "preview"
+          }
+        },
+        "group": "3ed706652de117be"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e4b54e23359ce6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b2a4da4ba08e4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a6b065e65ef7305",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f58aac910a3e9ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243
+  },
+  "right": {
+    "id": "1f7af0e3e25ca4e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "34e0100b30914c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6abda9fa0002316e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Sequence Types/4. List Methods.md",
+    "Some Interesting Functions/3. Enumerate().md",
+    "Some Interesting Functions/Untitled.md",
+    "Sequence Types/Untitled.md",
+    "Sequence Types/2. Lists.md"
+  ]
+}

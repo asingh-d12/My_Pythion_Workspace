@@ -9,87 +9,10 @@
     "Command palette": true,
     "Markdown format importer": true,
     "Word count": true,
-    "Custom CSS": true
+    "Custom CSS": true,
+    "Open with default app": true
   },
-  "workspaceLayout": {
-    "id": "bb36e2c2218197e0",
-    "type": "split",
-    "children": [
-      {
-        "id": "91aa93defb153f58",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ProgramFlow/12. Conditional Debugging.md",
-            "mode": "source"
-          }
-        }
-      }
-    ],
-    "direction": "vertical"
-  },
-  "leftSidedock": {
-    "id": "4e4b54e23359ce6a",
-    "type": "split",
-    "children": [
-      {
-        "id": "e6b2a4da4ba08e4c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9a6b065e65ef7305",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f58aac910a3e9ef",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 243
-  },
-  "rightSidedock": {
-    "id": "1f7af0e3e25ca4e3",
-    "type": "split",
-    "children": [
-      {
-        "id": "34e0100b30914c8c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6abda9fa0002316e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
-  },
-  "lastOpenFiles": [
-    "ProgramFlow/12. Conditional Debugging.md",
-    "ProgramFlow/Untitled.md",
-    "Introduction/Untitled.md",
-    "Introduction/8. What is PEP-8.md",
-    "Introduction/6. What is None.md"
-  ],
   "readableLineLength": false,
-  "fileSortOrder": "byModifiedTimeReverse"
+  "fileSortOrder": "alphabetical",
+  "spellcheck": false
 }
