@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/11. Explore PRINT function.md",
+            "file": "Sequence Types/1. What are Sequence Types.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/11. Explore PRINT function.md",
+            "file": "Sequence Types/1. What are Sequence Types.md",
             "mode": "preview"
           }
         },
@@ -85,10 +85,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Introduction/11. Explore PRINT function.md",
-    "Introduction/9. What is Refactoring.md",
-    "Introduction/8. What is PEP-8.md",
-    "Introduction/7. Augmented Assignment.md",
-    "Introduction/6. What is None.md"
+    "Sequence Types/1. What are Sequence Types.md",
+    "Sequence Types/09. Joins and Split method.md",
+    "Sequence Types/2. Lists - Index and Slice.md",
+    "Sequence Types/4. List Methods.md",
+    "DataTypes/String/09. Join and Split Method.md"
   ]
 }
