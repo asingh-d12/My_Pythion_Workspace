@@ -1,13 +1,8 @@
 import timeit
 
-max_value = 1000000  # 100000000
+max_value = 100000000  # 100000000
 min_valid = 10
-max_valid = 999997  # 99999997
-
-data_list1 = list(range(max_value))
-data_list2 = list(range(max_value))
-data_list3 = list(range(max_value))
-data_list4 = list(range(max_value))
+max_valid = 99999997  # 99999997
 
 
 def sanitise_1(data):
@@ -65,24 +60,29 @@ def sanitise_3(data):
 
 if __name__ == "__main__":
     print("Timing")
+    data_list1 = list(range(max_value))
     x = timeit.timeit("sanitise_1(data_list1)",
                       setup="from __main__ import sanitise_1,"
                             "data_list1",
                       number=1)
     print("{:15.15f}".format(x))
     del data_list1
+
+    data_list2 = list(range(max_value))
     y = timeit.timeit("sanitise_2(data_list2)",
                       setup="from __main__ import sanitise_2,"
                             "data_list2",
                       number=1)
     print("{:15.15f}".format(y))
     del data_list2
+    data_list3 = list(range(max_value))
     z = timeit.timeit("sanitise_3(data_list3)",
                       setup="from __main__ import sanitise_3,"
                             "data_list3",
                       number=1)
     print("{:15.15f}".format(z))
     del data_list3
+    data_list4 = list(range(max_value))
     n = timeit.timeit("sanitise_4(data_list4)",
                       setup="from __main__ import sanitise_4,"
                             "data_list4",
