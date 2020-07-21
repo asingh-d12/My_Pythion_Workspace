@@ -10,23 +10,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/11. Explore PRINT function.md",
-            "mode": "source"
-          }
-        },
-        "group": "a55e370f95ce6bce"
-      },
-      {
-        "id": "4da98a6cc5cbbe08",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Introduction/11. Explore PRINT function.md",
+            "file": "Sequence Types/09. Tuples.md",
             "mode": "preview"
           }
-        },
-        "group": "a55e370f95ce6bce"
+        }
       }
     ],
     "direction": "vertical"
@@ -59,7 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 201
   },
   "right": {
     "id": "1f7af0e3e25ca4e3",
@@ -85,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Introduction/11. Explore PRINT function.md",
-    "Introduction/9. What is Refactoring.md",
-    "Introduction/8. What is PEP-8.md",
-    "Introduction/7. Augmented Assignment.md",
-    "Introduction/6. What is None.md"
+    "Sequence Types/Untitled.md",
+    "DataTypes/String/08. String Formatting.md",
+    "DataTypes/String/8. String Formatting.md",
+    "DataTypes/String/70. Check SubString in a String.md",
+    "DataTypes/String/05. Slicing.md"
   ]
 }
