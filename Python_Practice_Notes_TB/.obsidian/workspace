@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sequence Types/09. Tuples.md",
-            "mode": "preview"
+            "file": "Sequence Types/10. Nested Tuples and List.md",
+            "mode": "source"
           }
         }
       }
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Sequence Types/10. Nested Tuples and List.md",
+    "Sequence Types/09. Tuples.md",
     "Sequence Types/Untitled.md",
     "DataTypes/String/08. String Formatting.md",
-    "DataTypes/String/8. String Formatting.md",
-    "DataTypes/String/70. Check SubString in a String.md",
-    "DataTypes/String/05. Slicing.md"
+    "DataTypes/String/8. String Formatting.md"
   ]
 }
