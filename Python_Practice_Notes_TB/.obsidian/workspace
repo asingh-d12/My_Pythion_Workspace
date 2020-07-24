@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sequence Types/10. Nested Tuples and List.md",
-            "mode": "source"
+            "file": "Binary/03. Octal.md",
+            "mode": "preview"
           }
         }
       }
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Sequence Types/10. Nested Tuples and List.md",
-    "Sequence Types/09. Tuples.md",
-    "Sequence Types/Untitled.md",
-    "DataTypes/String/08. String Formatting.md",
-    "DataTypes/String/8. String Formatting.md"
+    "Binary/03. Octal.md",
+    "Binary/01. What is Binary.md",
+    "Binary/Untitled.md",
+    "Binary/02. Hexadecimal.md",
+    "Sequence Types/10. Nested Tuples and List.md"
   ]
 }
