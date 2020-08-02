@@ -4,7 +4,7 @@ BIN_B = 2
 OCT_B = 8
 i = 0
 
-divider = BIN_B
+divider = OCT_B
 
 while num != 0:
     rem = num % divider
