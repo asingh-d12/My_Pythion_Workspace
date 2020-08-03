@@ -33,6 +33,8 @@ while True:
     for an_input in direction_to_move.split():
         if an_input in dir_words:
             direction_to_move = dir_words[an_input]
+            # Basically break out once a word in dir_words is found
+            break
     if direction_to_move in exits[loc]:
         loc = exits[loc][direction_to_move]
         print(locations[loc])
