@@ -19,5 +19,8 @@
 #  --------------------
 
 with open("./sample.txt", 'a') as jabba_file:
-    for i in range(1, 13):
-        print("{:2} times {} is {}".format(i, 2, i * 2), file=jabba_file)
+    for num in range(2, 13):
+        for i in range(1, 13):
+            print("{:2} times {} is {}".format(i, num, i * num),
+                  file=jabba_file)
+        print("-" * 20, file=jabba_file)
