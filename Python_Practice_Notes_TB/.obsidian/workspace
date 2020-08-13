@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Binary/03. Octal.md",
-            "mode": "preview"
+            "file": "DataTypes/01. Numeric Data Types.md",
+            "mode": "source"
           }
         }
       }
@@ -72,10 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Binary/03. Octal.md",
-    "Binary/01. What is Binary.md",
-    "Binary/Untitled.md",
-    "Binary/02. Hexadecimal.md",
-    "Sequence Types/10. Nested Tuples and List.md"
+    "DataTypes/01. Numeric Data Types.md",
+    "DataTypes/String/09. Join and Split Method.md",
+    "DataTypes/String/07. Check SubString in a String.md",
+    "DataTypes/String/05. Slicing.md",
+    "DataTypes/String/04. Introduction.md"
   ]
 }

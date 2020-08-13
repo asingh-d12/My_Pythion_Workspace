@@ -1,6 +1,7 @@
 import shelve
 
-# Here we are going to demonstrate that different type of information can be stored in a shelf
+# Here we are going to demonstrate that different type of information
+# can be stored in a shelf
 
 with shelve.open("bike") as bike:
     bike["make"] = "Honda"
