@@ -20,10 +20,10 @@ a_label.pack(side='top')
 # master window = main_window... mandatory argument
 # relief and borderwidth are keyword arguments that canvas can have
 a_canvas = tkinter.Canvas(main_window, relief="raised", borderwidth=1)
-a_canvas.pack(side='left')
+# a_canvas.pack(side='left')
 # One other keyword argument in pack()
 # fill - tells window to fill the space in either x or y or in both directions
-# a_canvas.pack(side='left', fill=tkinter.Y)
+a_canvas.pack(side='left', fill=tkinter.Y)
 # Though note that when it is filling, it is only using space that is below
 # label and not on it. this is because label already allocated space before.
 
@@ -54,12 +54,12 @@ a_canvas.pack(side='left')
 btn_1 = tkinter.Button(main_window, text="Button 1")
 btn_2 = tkinter.Button(main_window, text="Button 2")
 btn_3 = tkinter.Button(main_window, text="Button 3")
-
-btn_1.pack(side='left')
-btn_2.pack(side='left')
-btn_3.pack(side='left')
+#
+# btn_1.pack(side='left')
+# btn_2.pack(side='left')
+# btn_3.pack(side='left')
 # Right now, when these buttons are created, they will just stick to canvas
-# just simple meaning of pack... pack 1 above other
+# just simple meaning of pack... pack 1 aside other
 
 # Though to change that, we can provide anchor ro where we are packing
 # Check this out

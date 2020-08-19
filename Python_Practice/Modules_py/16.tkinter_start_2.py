@@ -15,14 +15,14 @@ main_window.title("Empty Main Window")
 # Next, let's tell the window about its width and height using "geometry method"
 # Make sure to put the width and height in string with width and height
 # separated by x
-main_window.geometry("640x480")
+main_window.geometry("320x240")
 
 # Oh an we can also tell where to open the screen by providing offsets
 # + represents position from top and left
 # - represents position from right and bottom
 # Oh, and offset is pixels
 # Check this out
-main_window.geometry("640x480+640+285")
+main_window.geometry("320x240+640+285")
 
 # Now, we are done with everything that we have to do... and now we are going
 # to pass control to tk so it can run the gui

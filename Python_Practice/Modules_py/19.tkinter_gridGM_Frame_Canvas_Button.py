@@ -20,7 +20,7 @@ canvas.grid(row=1, column=0)
 
 # Next, create a right frame
 right_frame = tkinter.Frame(main_window)
-# Right now, frame is in the middle and not anchored to the top
+# # Right now, frame is in the middle and not anchored to the top
 # right_frame.grid(row=1, column=2)
 # c0. in grid GM, we have "sticky" property that helps us in anchoring
 right_frame.grid(row=1, column=2, sticky='n')
@@ -37,20 +37,21 @@ btn_2.grid(row=1, column=0)
 btn_3.grid(row=2, column=0)
 
 # c1. Right now, the buttons are very close to left_frame, but we want there to
-# be some gap
-# Right now right_frame is as big as it requires to be
+# be some gap. How to do it?
+# so, currently right_frame is as big as it requires to be
 # We can change by adding weights to the columns here for main_window
 main_window.columnconfigure(0, weight=1)
 main_window.columnconfigure(1, weight=1)
 # This grid_columnconfigure is same as column configure
 main_window.grid_columnconfigure(2, weight=1)
 
-# c2. Here we are going to change some properties of lef_frame and
+# c2. Here we are going to change some properties of left_frame and
 # right_frame so that we can see the borders of these frames
+# config() can be used to add configurations to a window/object
 left_frame.config(relief='sunken', borderwidth=1)
 right_frame.config(relief='sunken', borderwidth=1)
-# c3. Now calling grid on left and right frame again, so that left_frame is
-# fully expanded vertically 'ns' and right frame is fully expanded
+# c3. Now calling grid() function on left and right frame again, so that
+# left_frame is fully expanded vertically 'ns' and right frame is fully expanded
 # horizontally 'new'. n added to anchor it to top
 left_frame.grid(sticky='ns')
 right_frame.grid(sticky='new')
