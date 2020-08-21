@@ -5,7 +5,7 @@
 import tkinter
 
 main_window = tkinter.Tk()
-main_window.title("Pack GM Part-2")
+main_window.title("Grid GM")
 main_window.geometry("640x480+200+200")
 
 a_label = tkinter.Label(main_window, text="Hello, World!!")
