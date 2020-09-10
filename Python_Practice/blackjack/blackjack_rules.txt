@@ -1,0 +1,24 @@
+1. Dealer deals 1 card to each player and then to himself
+2. Each player but not the dealer then gets the second card
+3. The player then decides whether to stick with the cards they have or hit(i.e. to get another card)
+4. Player can hit as many times as he wants, but as soon as there total goes over 21 they are bust, and Game Over for the player
+5. The cards that player hold  when they finish is called there hand
+6. Once all the players are stuck or bust, then dealer gets then second card and then dealer then decide whether to stick or hit
+7. If dealer goes over 21, then dealer is bust and all the players that stick wins
+8. There is another constraint - The dealer can not stick on less than 17
+9. So, in our version of this game we will have this - dealer must stick they have 17 or more
+10. Once dealer is finished, the players that have total more than dealer wins and the ones with less total looses.
+11. If dealer and player have same score, then they effectively draw.
+
+To keep it simple, we are going to play with single player
+
+Cards - 52
+1 - 10
+Jack, King and Queen - each value of 10
+4 Suites - Hearts, Clubs, Diamonds and spades
+
+1 Final complication:
+Ace can have value of 1 as well as 11 and depending upon total player can decide what number player will take
+
+
+I have downloaded PNG files, and added to the folder.
