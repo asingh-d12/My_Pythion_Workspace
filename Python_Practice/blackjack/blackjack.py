@@ -237,8 +237,6 @@ deck = []
 dealer_hand = []
 player_hand = []
 
-new_game()
-
 # Right now, if dealer picks out a card, the comparison starts to check who wins
 # Remember!! dealer can not hold and thus can't check for winner until dealer reaches score of 17 or above
 # How, it should happen is that dealer button should only be clicked once player want to stick
@@ -255,8 +253,15 @@ new_game()
 # If player hits dealer button... that means player is saying he is now on hold and player button will disable
 # Now go back to deal_dealer function... where we are going to keep on dealing card until score is >=17
 
-main_window.update()
-main_window.minsize(width=rules_frame.winfo_width(), height=title_frame.winfo_height() + card_frame.winfo_height() + button_frame.winfo_height() + rules_frame.winfo_height())
-main_window.maxsize(width=rules_frame.winfo_width(), height=main_window.winfo_height())
 
-main_window.mainloop()
+def play():
+    new_game()
+    main_window.update()
+    main_window.minsize(width=rules_frame.winfo_width(),
+                        height=title_frame.winfo_height() + card_frame.winfo_height() + button_frame.winfo_height() + rules_frame.winfo_height())
+    main_window.maxsize(width=rules_frame.winfo_width(), height=main_window.winfo_height())
+    main_window.mainloop()
+
+
+if __name__ == '__main__':
+    play()
