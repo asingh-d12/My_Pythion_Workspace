@@ -259,5 +259,4 @@ main_window.update()
 main_window.minsize(width=rules_frame.winfo_width(), height=title_frame.winfo_height() + card_frame.winfo_height() + button_frame.winfo_height() + rules_frame.winfo_height())
 main_window.maxsize(width=rules_frame.winfo_width(), height=main_window.winfo_height())
 
-
 main_window.mainloop()
