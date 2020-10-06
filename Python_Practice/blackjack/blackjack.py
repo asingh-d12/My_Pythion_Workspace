@@ -171,8 +171,8 @@ title_frame.columnconfigure(3, weight=1)
 title_frame.columnconfigure(4, weight=1)
 
 # This is where Cards are going to be
-card_frame = tkinter.Frame(main_window, relief="sunken", borderwidth=1, background="green")
-card_frame.grid(row=1, column=0, sticky='we', columnspan=3, rowspan=2)
+_card_frame = tkinter.Frame(main_window, relief="sunken", borderwidth=1, background="green")
+_card_frame.grid(row=1, column=0, sticky='we', columnspan=3, rowspan=2)
 
 rules_frame = tkinter.Frame(main_window, relief="sunken", borderwidth=10, background="blue")
 rules_frame.grid(row=4, column=0)
@@ -185,11 +185,11 @@ rules_data.insert(tkinter.END, "Rules:\n1. If you(player1) want another card - h
 
 # This is setting up dealer score and label
 dealer_score_label = tkinter.IntVar()
-tkinter.Label(card_frame, text="Dealer", background="green", fg="white").grid(row=0, column=0)
-tkinter.Label(card_frame, textvariable=dealer_score_label, background="green", fg="white").grid(row=1, column=0)
+tkinter.Label(_card_frame, text="Dealer", background="green", fg="white").grid(row=0, column=0)
+tkinter.Label(_card_frame, textvariable=dealer_score_label, background="green", fg="white").grid(row=1, column=0)
 
 # This is setting up frame for dealer cards
-dealer_card_frame = tkinter.Frame(card_frame, background="green")
+dealer_card_frame = tkinter.Frame(_card_frame, background="green")
 dealer_card_frame.grid(row=0, column=1, sticky='we', rowspan=2)
 
 # This is setting up player score and label
@@ -198,11 +198,11 @@ player_score_label = tkinter.IntVar()
 # player_score = 0
 # player_ace = False
 # We do not need these after using new type of function... uncomment these when trying with deal_player_old()
-tkinter.Label(card_frame, text="Player", background="green", fg="white").grid(row=2, column=0)
-tkinter.Label(card_frame, textvariable=player_score_label, background="green", fg="white").grid(row=3, column=0)
+tkinter.Label(_card_frame, text="Player", background="green", fg="white").grid(row=2, column=0)
+tkinter.Label(_card_frame, textvariable=player_score_label, background="green", fg="white").grid(row=3, column=0)
 
 # This is setting up frame for player cards
-player_card_frame = tkinter.Frame(card_frame, background="green")
+player_card_frame = tkinter.Frame(_card_frame, background="green")
 player_card_frame.grid(row=2, column=1, sticky='we', rowspan=2)
 
 # Adding Button Frames from dealer and player
@@ -258,7 +258,7 @@ def play():
     new_game()
     main_window.update()
     main_window.minsize(width=rules_frame.winfo_width(),
-                        height=title_frame.winfo_height() + card_frame.winfo_height() + button_frame.winfo_height() + rules_frame.winfo_height())
+                        height=title_frame.winfo_height() + _card_frame.winfo_height() + button_frame.winfo_height() + rules_frame.winfo_height())
     main_window.maxsize(width=rules_frame.winfo_width(), height=main_window.winfo_height())
     main_window.mainloop()
 

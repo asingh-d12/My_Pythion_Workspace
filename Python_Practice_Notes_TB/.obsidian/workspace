@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataTypes/01. Numeric Data Types.md",
+            "file": "DataTypes/06. Sequence Types in Python.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
@@ -61,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "DataTypes/06. Sequence Types in Python.md"
+              }
             }
           }
         ]
@@ -72,10 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "DataTypes/06. Sequence Types in Python.md",
+    "DataTypes/09. Boolean.md",
+    "DataTypes/02. What are Expressions.md",
     "DataTypes/01. Numeric Data Types.md",
     "DataTypes/String/09. Join and Split Method.md",
+    "DataTypes/String/08. String Formatting.md",
     "DataTypes/String/07. Check SubString in a String.md",
     "DataTypes/String/05. Slicing.md",
-    "DataTypes/String/04. Introduction.md"
+    "DataTypes/String/04. Introduction.md",
+    "DataTypes/03. Operator Precedence.md"
   ]
 }
