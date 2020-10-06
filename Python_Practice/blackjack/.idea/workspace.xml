@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8e23e70-3cee-43b7-b464-cfede2dd1b17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Modules_py/23.underscores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import_test_underscores_no_private.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/blackjack.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hHblKA9kcedJ43f3pJl75XPNAV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.import_test_underscores_no_private">
+    <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blackjack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blackjack_loadcards" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blackjack_loadcards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_test_underscores_no_private" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import_test_underscores_no_private.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.import_test_underscores_no_private" />
+        <item itemvalue="Python.import_test" />
+        <item itemvalue="Python.blackjack_loadcards" />
+        <item itemvalue="Python.blackjack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8e23e70-3cee-43b7-b464-cfede2dd1b17" name="Default Changelist" comment="" />
+      <created>1599671114820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599671114820</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Blackjack Complete - 09102020">
+      <created>1599742403769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599742403769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="blackjack done - 09122020">
+      <created>1599935350809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599935350809</updated>
+    </task>
+    <task id="LOCAL-00003" summary="importing understood - 09132020">
+      <created>1599945455118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599945455118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Blackjack Complete - 09102020" />
+    <MESSAGE value="blackjack done - 09122020" />
+    <MESSAGE value="importing understood - 09132020" />
+    <option name="LAST_COMMIT_MESSAGE" value="importing understood - 09132020" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="840" y="397" width="695" height="472" key="#Notifications" timestamp="1600087749326">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state x="840" y="397" width="695" height="472" key="#Notifications/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1600087749326" />
+    <state width="1897" height="307" key="GridCell.Tab.0.bottom" timestamp="1600157227787">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1897" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1600157227787" />
+    <state width="1897" height="307" key="GridCell.Tab.0.bottom/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599945527698" />
+    <state width="1897" height="307" key="GridCell.Tab.0.center" timestamp="1600157227787">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1897" height="307" key="GridCell.Tab.0.center/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1600157227787" />
+    <state width="1897" height="307" key="GridCell.Tab.0.center/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599945527698" />
+    <state width="1897" height="307" key="GridCell.Tab.0.left" timestamp="1600157227787">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1897" height="307" key="GridCell.Tab.0.left/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1600157227787" />
+    <state width="1897" height="307" key="GridCell.Tab.0.left/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599945527698" />
+    <state width="1897" height="307" key="GridCell.Tab.0.right" timestamp="1600157227787">
+      <screen x="0" y="0" width="1920" height="1055" />
+    </state>
+    <state width="1897" height="307" key="GridCell.Tab.0.right/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1600157227787" />
+    <state width="1897" height="307" key="GridCell.Tab.0.right/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599945527698" />
+    <state width="1897" height="342" key="GridCell.Tab.1.bottom" timestamp="1599742971105">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1897" height="342" key="GridCell.Tab.1.bottom/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599742971105" />
+    <state width="1897" height="342" key="GridCell.Tab.1.center" timestamp="1599742971105">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1897" height="342" key="GridCell.Tab.1.center/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599742971105" />
+    <state width="1897" height="342" key="GridCell.Tab.1.left" timestamp="1599742971105">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1897" height="342" key="GridCell.Tab.1.left/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599742971105" />
+    <state width="1897" height="342" key="GridCell.Tab.1.right" timestamp="1599742971105">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1897" height="342" key="GridCell.Tab.1.right/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599742971105" />
+    <state x="755" y="246" width="399" height="619" key="RollbackChangesDialog" timestamp="1599935336124">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="755" y="246" width="399" height="619" key="RollbackChangesDialog/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599935336124" />
+    <state x="554" y="287" width="802" height="537" key="Vcs.Push.Dialog.v2" timestamp="1599945459300">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="554" y="287" width="802" height="537" key="Vcs.Push.Dialog.v2/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599945459300" />
+    <state x="569" y="165" width="772" height="782" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599739411852">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="569" y="165" width="772" height="782" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599739411852" />
+  </component>
+</project>
