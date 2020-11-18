@@ -12,13 +12,13 @@ while True:
         print("You lost, all 10 guesses are up")
         break
 
-    num_guess = int(input("Please guess a number between 1 and 1000, you have {} more guesses left : "
-                          .format(10 - n_guess)))
+    num_guess = int(input("Please guess a number between 1 and {}, you have {} more guesses left : "
+                          .format(max_num, 10 - n_guess)))
 
     if num_guess < ans:
         print("Please guess higher, Guess again!!")
     elif num_guess > ans:
         print("Please guess lower, Guess again!!")
     else:
-        print("You guessed the correct in {} tries!!".format(n_guess))
+        print("You guessed the correct answer in {} tries!!".format(n_guess))
         break

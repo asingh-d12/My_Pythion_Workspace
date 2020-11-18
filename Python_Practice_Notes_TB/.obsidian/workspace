@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DataTypes/06. Sequence Types in Python.md",
+            "file": "Sequence Types/10. Nested Tuples and List.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataTypes/06. Sequence Types in Python.md"
+                "file": "Sequence Types/10. Nested Tuples and List.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "DataTypes/06. Sequence Types in Python.md",
-    "DataTypes/09. Boolean.md",
-    "DataTypes/02. What are Expressions.md",
-    "DataTypes/01. Numeric Data Types.md",
+    "Sequence Types/10. Nested Tuples and List.md",
+    "Sequence Types/09. Tuples.md",
     "DataTypes/String/09. Join and Split Method.md",
-    "DataTypes/String/08. String Formatting.md",
-    "DataTypes/String/07. Check SubString in a String.md",
-    "DataTypes/String/05. Slicing.md",
-    "DataTypes/String/04. Introduction.md",
-    "DataTypes/03. Operator Precedence.md"
+    "Sequence Types/09. Joins and Split method.md",
+    "Introduction/10. Methods vs Functions.md",
+    "Introduction/11. Explore PRINT function.md",
+    "Special Algorithms/1. Binary Search.md",
+    "Testing the code/2. Code Performance.md",
+    "Testing the code/1. Introduction.md",
+    "Sequence Types/08. Nested Lists.md"
   ]
 }

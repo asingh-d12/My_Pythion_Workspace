@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17236be4-3e3d-4aca-8ed9-043b0c4d9fcd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07.test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_flow_control/for_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_flow_control/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07.test.py" beforeDir="false" afterPath="$PROJECT_DIR$/07.test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_flow_control/guess_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_flow_control/guess_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,48 +59,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.07.test">
-    <configuration name="01.Intro_step1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Decorators" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.Intro_step1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="02.Intro_step2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Decorators" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.Intro_step2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="03.Intro_step3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Decorators" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +72,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03.Intro_step3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04.Intro_step4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Decorators" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04.Intro_step4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05.Intro_a_decorator_concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Decorators" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.Intro_a_decorator_concept.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06.Intro_an_actual_decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Decorators" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06.Intro_an_actual_decorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,9 +167,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.07.test" />
+        <item itemvalue="Python.06.Intro_an_actual_decorator" />
+        <item itemvalue="Python.05.Intro_a_decorator_concept" />
+        <item itemvalue="Python.04.Intro_step4" />
         <item itemvalue="Python.03.Intro_step3" />
-        <item itemvalue="Python.02.Intro_step2" />
-        <item itemvalue="Python.01.Intro_step1" />
       </list>
     </recent_temporary>
   </component>
@@ -175,24 +201,28 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="277" key="GridCell.Tab.0.bottom" timestamp="1599562836030">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1897" height="277" key="GridCell.Tab.0.bottom" timestamp="1603540698608">
+      <screen x="0" y="0" width="1920" height="1055" />
     </state>
+    <state width="1897" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1603540698608" />
     <state width="1897" height="277" key="GridCell.Tab.0.bottom/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599562836030" />
     <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598804454475" />
-    <state width="1897" height="277" key="GridCell.Tab.0.center" timestamp="1599562836030">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1897" height="277" key="GridCell.Tab.0.center" timestamp="1603540698608">
+      <screen x="0" y="0" width="1920" height="1055" />
     </state>
+    <state width="1897" height="277" key="GridCell.Tab.0.center/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1603540698608" />
     <state width="1897" height="277" key="GridCell.Tab.0.center/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599562836030" />
     <state width="1876" height="276" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598804454475" />
-    <state width="1897" height="277" key="GridCell.Tab.0.left" timestamp="1599562836030">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1897" height="277" key="GridCell.Tab.0.left" timestamp="1603540698608">
+      <screen x="0" y="0" width="1920" height="1055" />
     </state>
+    <state width="1897" height="277" key="GridCell.Tab.0.left/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1603540698608" />
     <state width="1897" height="277" key="GridCell.Tab.0.left/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599562836030" />
     <state width="1876" height="276" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598804454475" />
-    <state width="1897" height="277" key="GridCell.Tab.0.right" timestamp="1599562836030">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1897" height="277" key="GridCell.Tab.0.right" timestamp="1603540698608">
+      <screen x="0" y="0" width="1920" height="1055" />
     </state>
+    <state width="1897" height="277" key="GridCell.Tab.0.right/0.0.1920.1055/1920.0.1920.1080@0.0.1920.1055" timestamp="1603540698608" />
     <state width="1897" height="277" key="GridCell.Tab.0.right/0.25.1920.1055/1920.0.1920.1080@0.25.1920.1055" timestamp="1599562836030" />
     <state width="1876" height="276" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1598804454475" />
     <state x="681" y="247" width="548" height="619" key="RollbackChangesDialog" timestamp="1599071430808">
