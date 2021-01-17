@@ -14,7 +14,7 @@ while True:
 
     while True:
         num_of_chances += 1
-        num = int(input("Guess the number : "))
+        num = int(input("Chance number {}, Guess the number : ".format(num_of_chances)))
 
         if num_to_guess > num:
             print("Guess Higher!!")
