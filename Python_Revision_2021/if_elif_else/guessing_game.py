@@ -6,6 +6,16 @@ print("Let's start with this game!!\nGuess between 1 and {}".format(max_num))
 
 print("*" * 50)
 
+
+def get_integer(prompt):
+    while True:
+        num = input(prompt)
+        if num.isnumeric():
+            return int(num)
+        else:
+            print("This is not a number, TRY AGAIN!!")
+
+
 while True:
     num_to_guess = random.randint(1, max_num)
     print("Number to guess is chosen, Let's continue!!!")
@@ -14,7 +24,8 @@ while True:
 
     while True:
         num_of_chances += 1
-        num = int(input("Chance number {}, Guess the number : ".format(num_of_chances)))
+        # num = int(input("Chance number {}, Guess the number : ".format(num_of_chances)))
+        num = get_integer("Chance number {}, Guess the number : ".format(num_of_chances))
 
         if num_to_guess > num:
             print("Guess Higher!!")
